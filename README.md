@@ -1,4 +1,4 @@
-# spring_boot_hello_world_api
+# Spring Boot Hello World API
 
 Simple Hello World API with Spring Boot
 
